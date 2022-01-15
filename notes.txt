@@ -89,3 +89,15 @@ Javascript can convert intergers to strings when concantenating.
 Using backtticks allows for template literals(interpolation). 
 
 //////////
+
+Section 18 - Taking Decisions: if / else Statements
+
+If statement are created like such:
+
+if (condition) {
+  the code you want ran if the condition is met
+} else {
+  the code you want ran i the condition is not met
+}
+
+an else statement is not reuired. 
