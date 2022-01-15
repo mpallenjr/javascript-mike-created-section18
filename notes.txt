@@ -99,5 +99,8 @@ if (condition) {
 } else {
   the code you want ran i the condition is not met
 }
-
+// this is also considered an "if else control structure".
 an else statement is not reuired. 
+
+
+
