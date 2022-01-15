@@ -154,5 +154,9 @@ const age = 19;
 
 if(age >= 16) {
   console.log('Sarah can start her driving license 🚗')
+} else {
+  const yearsLeft = 16 - age;
+  console.log(`Sarah is too young 🥲. Wait another ${yearsLeft} years.`)
+
 }
 
